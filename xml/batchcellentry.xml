@@ -1,0 +1,7 @@
+<entry>
+  <batch:id></batch:id>
+  <batch:operation type="update" />
+  <id></id>
+  <link rel="edit" type="application/atom+xml" />
+  <gs:cell />
+</entry>
