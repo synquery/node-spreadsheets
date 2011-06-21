@@ -3,7 +3,11 @@
 	"description": "A node.js client for Google Spreadsheets API",
 	"version": "0.1.0",
 	"author": "EastCloud <info@east-cloud.co.jp>",
-	"main": "./lib/Spreadsheets",
+	"repository": {
+        "type": "git",
+        "url": "https://EastCloud@github.com/EastCloud/node-spreadsheets.git"
+    },
+	"main": "./lib/spreadsheets/Spreadsheets",
 	"engines": {
 		"node": ">=0.4.0"
 	},
